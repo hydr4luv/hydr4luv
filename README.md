@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hydr4luv
 - 👀 I’m interested in Unity
 - 🌱 I’m currently learning C#, Unity, languege of love
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on РУССЫ ПРОТИВ ЯЩЕРОВ
 - 📫 How to reach me pls i wanna be a rich
 
 <!---
